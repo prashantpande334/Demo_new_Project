@@ -1,2 +1,2 @@
 # Demo_new_Project
-simple program 
+simple program  basic info
